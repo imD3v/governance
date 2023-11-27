@@ -11,6 +11,21 @@ Gli Working Group sono a partecipazione esclusiva degli Ambassador.
 Un Working Group nasce da un'esigenza specifica del progetto.  
 Può essere proposto dal Governance Group o da un Ambassador che lo propone al Governance Group, che deve ritenerlo opportuno.
 
+## Come si entra in un Working Group?
+
+Requisito fondamentale per entrare in un Working Group è essere Ambassador.  
+Ogni Working Group è autonomo nell'apertura di nuovi posti disponibili - suggeriamo di mantenersi sempre in numero dispari così da poter votare a maggioranza se necessario -, ma dovrà necessariamente comunicarlo su questo repository o su Telegram, per dare libertà a tutti gli Ambassador di candidarsi.
+
+Anche per quanto concerne i tempi di risposta e di valutazione delle candidature, ogni Working Group è autonomo.
+
+Unica regola viene fatta per i criteri di inserimento: L'inserimento di un nuovo membro in un Working Group deve essere definito all'unanimità. Ci riserviamo di rivedere questa regola in futuro qualora si rendesse necessario.
+
+Un'eventuale rimozione di un membro di un Working Group deve essere decisa internamente al gruppo stesso e condivisa in modo unanime dal gruppo, ad esclusione del membro in questione.
+
+## Come si esce da un Working Group?
+
+Per uscire da un Working Group è sufficiente comunicarlo al gruppo stesso e al Governance Group, preferibilmente motivando la propria decisione per permettere al gruppo di migliorarsi, oltre che dando un tempo di preavviso ragionevole per poter trovare un sostituto o fare un passaggio di consegne coerente.
+
 # Working Group attivi
 
 ## Drafting Group
@@ -85,7 +100,7 @@ Tendenzialmente ci si aspetta che in questo gruppo entrino persone che hanno avu
 
 ## Governance Group
 
-_Presieduto da Michael Di Prisco, Michel Murabito, Francesco Bianco, Davide Imola, Enrico Maria Cestari._
+_Presieduto da Michael Di Prisco, Michel Murabito, Davide Imola, Enrico Maria Cestari._
 
 Questo gruppo si occuperà di tutto ciò che concerne la gestione del progetto, ovvero le linee guida di nomina e allontanamento degli ambassador, la gestione degli altri Working Group (Inserimento o spostamento di membri), l'organizzazione dei meeting, ecc.
 
@@ -93,3 +108,11 @@ Tutto ciò che riguarda la _gestione_, comunque la si intenda, passerà da qui. 
 
 Da notare che il Governance Group non avrà voce in capitolo sulle scelte di alcun altro gruppo purché queste siano nel loro perimetro e rispettino le nostre linee guida.  
 Per capirci, i membri del governance group non potranno rifiutarsi di condividere e accettare la decisione del drafting group nel cambiare le linee guida sulla stesura dei contenuti.
+
+### Roadmap
+
+Il Governance Group si occuperà inoltre di stilare e mantenere aggiornata la roadmap del progetto, che sarà pubblicata su questo repository.
+
+La roadmap sarà pubblica e accessibile a tutti, e sarà aggiornata in base alle decisioni prese durante la vita del progetto.
+
+Attualmente la roadmap è in fase di stesura e verrà pubblicata non appena sarà pronta e verrà nominata una figura atta a gestirla.
